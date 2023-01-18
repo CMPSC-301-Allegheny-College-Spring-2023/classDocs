@@ -1,4 +1,4 @@
-# DAta Analysis (CMPSC 301) Course Syllabus
+# Data Analysis (CMPSC 301) Course Syllabus
 
 This repository contains information about Data Analysis, including the course objectives, policies and the schedule. Please check this repository regularly for updates to the policies and the schedule.
 
