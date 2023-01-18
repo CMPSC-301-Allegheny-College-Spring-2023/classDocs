@@ -182,13 +182,6 @@ Unless special arrangements are made with the course instructor, **no assignment
 
 The decision to provide you with an extension (or not) will be weighed in light of fairness to your peers who are still able to complete their labs, regardless of their own busy schedules.
 
-If you have an extenuating circumstance and need official documentation, please address one of the following locations.
-
-*  [Maytum Center for Student Success](https://sites.allegheny.edu/learningcommons/)
-*  [Allegheny College Counseling Center](https://sites.allegheny.edu/learningcommons/)
-*  [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
-*  [Student Life](https://sites.allegheny.edu/studentlife/)
-
 ### Communication
 
 Various digital channels will be used in this course for communication, including email, Discord, and the GitHub issue tracker. It is strongly advised for the student to install the Discord app on their computer and smart-phone to be sure to receive all communications from the instructor, as well as, the other members of the class.
@@ -199,7 +192,6 @@ Additionally, the course website will be used to store the syllabus, course sche
 
 * TBA
 
-
 ### Bring your own computer to class
 
 The classrooms in the Department of Computer Science no longer provide machines for student use. You are to bring your own wifi-ready device to class to be able to follow along with course material. If the class is meeting online using Zoom, then please be sure that you machine is configured correctly to use these services to connect you to the class. As it is your responsibility to maintain your machine, please perform online research to determine how to configure your machine accordingly, or to install any necessary software to enable online meetings.
@@ -209,6 +201,13 @@ During the semester, you will be told which software to install on your machine 
 ### Special Needs and Disability Services
 
 The Americans with Disabilities Act (ADA) is a federal anti-discrimination statute that provides comprehensive civil rights protection for persons with disabilities.  Among other things, this legislation requires all students with disabilities be guaranteed a learning environment that provides for reasonable accommodation of their disabilities. Students with disabilities who believe they may need accommodations in this class are encouraged to contact Disability Services at 332-2898. Disability Services is part of the Learning Commons and is located in Pelletier Library. Please do this as soon as possible to ensure that approved accommodations are implemented in a timely fashion.
+
+Some of the resources on campus are listed below.
+
+*  [Maytum Center for Student Success](https://sites.allegheny.edu/learningcommons/)
+*  [Allegheny College Counseling Center](https://sites.allegheny.edu/learningcommons/)
+*  [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
+*  [Student Life](https://sites.allegheny.edu/studentlife/)
 
 ### Honor Code
 
