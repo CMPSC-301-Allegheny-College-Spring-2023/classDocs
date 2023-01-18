@@ -66,27 +66,7 @@ Main site on GitHub: [ClassDocs/](https://github.com/CMPSC-301-Allegheny-College
 ## Course Description
 Credits: 4
 
-An introduction to computational methods of data analysis with an emphasis on understanding and reflecting on the social, cultural, and political issues surrounding data and its interrogation. Participating in hands-on activities that often require teamwork, students study, design, and implement analytics software and learn how to extract knowledge from, for instance, financial, political, and scientific sources of data. Students also investigate the biases, discriminatory views, and stereotypes that may be present during the collection and analysis of data, reflecting on the ethical implications of using the resulting computational techniques. During a weekly laboratory session, students use state-of-the-art statistical software to complete projects, reporting on their findings through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
-
-Prerequisite: FS*102 or FS*200, or permission of the instructor. 
-
-
-## Distribution Requirements
-
-The following definitions were taken from the [Distribution Requirement website](https://sites.allegheny.edu/registrar/academic-policies/graduation-requirements/distribution-requirement/).
-
-### Quantitative Reasoning (QR)
-
-* Quantitative Reasoning is the ability to understand, investigate, communicate, and contextualize numerical, symbolic, and graphical information towards the exploration of natural, physical, behavioral, or social phenomena.
-
- * Learning Outcome: Students who successfully complete this requirement will demonstrate an understanding of how to interpret numeric data and/or their graphical or symbolic representations.
-
-### Power, Privilege, and Difference (PD)
-
-* Understanding Power, Privilege, and Difference means understanding the role of power, privilege, prejudice, discrimination, stereotypes, inequity, and oppression in human society, in both historical and contemporary contexts, and recognizing these dynamics in the learner’s own life and communities.
-
-* Learning Outcome: Students who successfully complete this requirement will demonstrate an understanding of the historical and/or contemporary roles of power, privilege, and difference in human society.
-This course meets the course distribution requirements of QR (Quantitative Reasoning) and PD (Power, Privilege, & Difference) for its use of applying concepts of computer programming to the analysis of public data concerning events where there is a detectable bias at play. In addition, the class aims to introduce an component of ethical reasoning when drawing conclusions.
+A team-based investigation of select topics in computer science, preparing students for the proposal and completion of a senior project. Working in teams to complete hands-on activities, students learn how to read research papers, state and motivate research questions, design and conduct experiments, and collect and organize evidence for evaluating scientific hypotheses. During a weekly laboratory session students use state-of-the-art technology to gain practical skills in scientific and technical writing, the presentation of computational and mathematical concepts, and the visualization of experimental data. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions. Prerequisite: CMPSC*101 and at least one of the core courses. Distribution Requirements: None.
 
 ## Course Objectives
 
@@ -111,9 +91,11 @@ Throughout the semester students will be challenged with serious analytical ques
   + [Book Website](https://r4ds.had.co.nz/)
 
 * Julia Silge And David Robinson. Text Mining With R: A Tidy Approach., O'Reilly Media, Inc., 2019.
+
   + [Book Website](https://www.tidytextmining.com/)
 
 * Think Python, first edition, by Allen B. Downey.
+
   + [Publisher Website](https://greenteapress.com/wp/)
 
 #### Other Useful Textbooks:
