@@ -48,7 +48,8 @@ If you are already on the department's Discord server, then you will be given ac
 
 [Course Calendar Link](https://calendar.google.com/calendar/u/0?cid=Y19hNTg4ZDZiYjQzZDUxYWNiMTJhZjhjMDZhOGVjMWQwOGQyZDQ4YmQ3NDNmNWQ5ZTE0YmFmNzMwYmM3ZDc3NGIzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_a588d6bb43d51acb12af8c06a8ec1d08d2d48bd743f5d9e14baf730bc7d774b3%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<!-- 
+<iframe src="https://calendar.google.com/calendar/embed?src=c_a588d6bb43d51acb12af8c06a8ec1d08d2d48bd743f5d9e14baf730bc7d774b3%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
 
 ## `classDocs/`
 All materials given out in class will be accessible using the `classDocs/` repository. Note: The HTTP link works in absence of SSH keys.
@@ -67,9 +68,41 @@ An introduction to computational methods of data analysis with an emphasis on un
 
 Prerequisite: FS*102 or FS*200, or permission of the instructor. 
 
-Distribution Requirements: QR, SP
 
-### Suggested TextBooks
+## Distribution Requirements
+
+The following definitions were taken from the [Distribution Requirement website](https://sites.allegheny.edu/registrar/academic-policies/graduation-requirements/distribution-requirement/).
+
+### Quantitative Reasoning (QR)
+
+* Quantitative Reasoning is the ability to understand, investigate, communicate, and contextualize numerical, symbolic, and graphical information towards the exploration of natural, physical, behavioral, or social phenomena.
+
+ * Learning Outcome: Students who successfully complete this requirement will demonstrate an understanding of how to interpret numeric data and/or their graphical or symbolic representations.
+
+### Power, Privilege, and Difference (PD)
+
+* Understanding Power, Privilege, and Difference means understanding the role of power, privilege, prejudice, discrimination, stereotypes, inequity, and oppression in human society, in both historical and contemporary contexts, and recognizing these dynamics in the learner’s own life and communities.
+
+* Learning Outcome: Students who successfully complete this requirement will demonstrate an understanding of the historical and/or contemporary roles of power, privilege, and difference in human society.
+This course meets the course distribution requirements of QR (Quantitative Reasoning) and PD (Power, Privilege, & Difference) for its use of applying concepts of computer programming to the analysis of public data concerning events where there is a detectable bias at play. In addition, the class aims to introduce an component of ethical reasoning when drawing conclusions.
+
+## Course Objectives
+
+Students successfully completing this class will have developed:
+* A “big-picture” view of data analytics.
+* An understanding of the objectives and limitations of data analytics.
+* An understanding of the main data analytics methods.
+* Practical skills using relevant software tools and programming techniques.
+* An understanding of the contemporary roles of power and difference as they relate to the knowledge derived from a data set.
+* An understanding of biases, discrimination and stereotypes that maybe present during collection, analysis, and reflection on the latent trends in real-world data sets.
+* The course is divided into modules, with several of the modules consisting of investigations of real-world data in a specific field. In addition to learning specific technical and programming skills in each module students will be required to read a relevant article and prepare for a discussion related to the issues raised in the article.
+* Students will also enhance their ability to write and present ideas about data analytics in a clear and compelling fashion. Finally, students will gain practical experience in the design, implementation, and analysis of data for research during laboratory sessions and a final project.
+
+## An Ethical Interest
+
+Throughout the semester students will be challenged with serious analytical questions connecting the investigated data and its analysis to arising societal issues of bias, ethical consideration and the culture of power. This step is to ensure that analytics is performed with a lens on the data, as well as its impacts (positive and negative) on culture, community, and society. We note here that there is often no clear indication of a “correct” decision as a result of an analysis of data. The so-called “right” decision ought to be made by analysis who has studied both the data, and the consequences of decision in terms of humanitarian, environmental, ecological and other factors. This class cannot give you the correct decision, however it can help to enable your critical thinking skills which will provide you with some understanding of how to navigate to worthy decisions.
+
+## Suggested TextBooks
 
 * Wickham, Hadley, and Garrett Grolemund. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data., O'Reilly Media, Inc., 2016.
 
