@@ -149,8 +149,6 @@ The grade that a student receives in this class will be based on the following c
 
  + __Exam__: A midterm exam will cover all of the material in their associated module(s) up to the time of the exam. The finalized date for each of the exams will be announced at least one week in advance of the scheduled date. Unless prior arrangements are made with the course instructor, in absence of special arrangements, all students will be expected to take the exam at the scheduled date and complete it during the allotted time.
 
- + __Class Participation__: All students are required to actively participate during all of the class sessions. Your participation will take forms such as answering questions about the required reading assignments, completing in-class exercises, asking constructive questions of the other members of the class, giving presentations, leading a discussion session in class.% and in the course's Slack channels.
-
  + __Laboratory Assignments__: These assignments invite students to explore the concepts, tools, and techniques associated with the analysis of data. All of the laboratory assignments require the use of the provided tools to study, design, implement, and evaluate systems that solve data analytics problems. In addition 
  to demonstration of the technical skills through the utilized or developed software for data analysis, some of the laboratory assignments in this course may also expect students to read a related article and to lead a discussion or to give a short presentation related to the assigned article.
 
