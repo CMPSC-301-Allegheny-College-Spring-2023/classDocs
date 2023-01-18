@@ -204,14 +204,7 @@ Additionally, the course website will be used to store the syllabus, course sche
 
 The classrooms in the Department of Computer Science no longer provide machines for student use. You are to bring your own wifi-ready device to class to be able to follow along with course material. If the class is meeting online using Zoom, then please be sure that you machine is configured correctly to use these services to connect you to the class. As it is your responsibility to maintain your machine, please perform online research to determine how to configure your machine accordingly, or to install any necessary software to enable online meetings.
 
-During the semester, you will be told which software to install on your machine to be prepared for class. Some of the prominent software that we may be using include;
-
- + [Git and GiHub](https://github.com/): (a software development software system
- + [VSCode](https://code.visualstudio.com/download): (an editor)
- + [Docker](https://www.docker.com): a software container system
-  + [Installing Docker](https://docs.docker.com/get-docker/)
-  + [Basic tutorial from Docker](https://www.docker.com/101-tutorial)
-  + [Play with Docker](https://labs.play-with-docker.com/)
+During the semester, you will be told which software to install on your machine to be prepared for class. Some of the prominent software that we may be using can be found at the following [resource](https://www.oliverbonhamcarter.com/resources/dataanalytics_resources/).
 
 ### Special Needs and Disability Services
 
