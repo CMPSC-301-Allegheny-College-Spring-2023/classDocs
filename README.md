@@ -155,30 +155,39 @@ The grade that a student receives in this class will be based on the following c
 
  + __Final Project__: This project will present you with an opportunity to design and implement a correct and carefully evaluated project. Completion of the final project will require you to apply all of the knowledge and skills that you have acquired during the course of the semester to address a research problem. The details for the final project will be given in class.
 
-### Assignment Submission
+### Assignment Submissions
 
-Your class instructor will be using GitHub Classroom to collect all assignments. It is expected that you are able to effectively use `git` to submit your work. If you require help, please see your peers, the Technology Leaders, or your instructor.
+Your instructor will be using GitHub Classroom to collect all assignments. It is expected that you are able to effectively use `git` to submit your work. If you require help, please see your peers, the Technology Leaders, or your instructor.
 
-All assignments will have a stated due date. The electronic version of the class assignments are to be turned in at the beginning of the lab session on that due date. Submissions after the beginning of class are counted as being late. Assignments will be accepted for up to one week past the assigned due date with a 15% penalty. **After that time, the lab will not be accepted.**
+The three basic commands for submitting work are the following.
+
+``` bash
+git add -A
+git commit -m "informative message"
+git push
+```
+
+### Late Submissions
+
+All assignments will have a stated due date. The electronic version of the class assignments are to be turned in at the beginning of the lab session on the due date. Submissions after the beginning of class are counted as being late.
+
+**Assignments will be accepted for up to one week past the assigned due date with a 15% penalty. After that time, the lab will not be accepted.** 
+
+**Please note, lab solutions will be discussed after the one week late submission deadline. Therefore, any submission of the assignments following that deadline will not be possible.**
 
 
 ### Extensions
 
 Unless special arrangements are made with the course instructor, **no assignments will be accepted after the late deadline.** If you are requesting extensions for a lab assignment, then you are to email me with your request and also provide a valid reason for your extension. This request must come before the due date of the lab and __not__ on the due date.
 
-Requests will not be granted where the reason appears to be insignificant. Extensions are 24 hours of extra time (after the original due date) and are given out at my discretion. The decision to provide you with an extension (or not) will be weighed in light of fairness to your peers who are still able to complete their labs, regardless of their own busy schedules.
+The decision to provide you with an extension (or not) will be weighed in light of fairness to your peers who are still able to complete their labs, regardless of their own busy schedules.
 
-The submission of homework comprises the Honor Code pledge of the student(s) completing the work. For any assignment completed in a group, students must also turn in a one-page reflection that describes each group member's contribution to the submitted deliverables.  
+If you have an extenuating circumstance and need official documentation, please address one of the following locations.
 
-### A note on extenuating circumstances
-
-If you should find yourself in difficult circumstances that significantly interfere with your ability to prepare for this class and to complete assignments, please inform me immediately so that we can work something out together! Do not wait until the last day of class to ask for exceptions to what is stated in this syllabus. In such a situation, you may also find it helpful to contact one of the available resources on campus:
-
- +  [Maytum Center for Student Success](https://sites.allegheny.edu/learningcommons/)
- +  [Allegheny College Counseling Center](https://sites.allegheny.edu/learningcommons/)
- +  [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
- +  [Student Life](https://sites.allegheny.edu/studentlife/)
-
+*  [Maytum Center for Student Success](https://sites.allegheny.edu/learningcommons/)
+*  [Allegheny College Counseling Center](https://sites.allegheny.edu/learningcommons/)
+*  [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
+*  [Student Life](https://sites.allegheny.edu/studentlife/)
 
 ### Communication
 
@@ -222,17 +231,13 @@ More information about the code may be found at the [Maytum Center for Student S
 
 Types of computer hardware and software are everywhere! Conducting research in computer science is a challenging and rewarding activity that leads to the production of hardware, software, and scientific insights that have the potential to positively influence the lives of many people.  As you learn more about research methods in computer science you will also enhance your ability to effectively write and speak about a wide range of topics in computer science. I ask that you bring your best effort and highest enthusiasm as you pursue research in computer science this semester.
 
-
-
-
-
 ### Schedule
 
 Below is a tentative schedule of covered topics and associated activities. The schedule is subject to change with the addition of guest appearances.
 
 Week # | Dates   | Topic | Reading|
 ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------|
-1 | Jan 17- 20 | Introduction to the course | Read the syllabus|
+1 | Jan 17- 20 | Introduction to the course, interests | Read the syllabus|
 1 | | No lab| N/A |
 2 |  |  | |
 2 || | |
