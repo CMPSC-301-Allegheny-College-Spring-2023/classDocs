@@ -168,7 +168,7 @@ Additionally, the course website will be used to store the syllabus, course sche
 
 ### Gradebook Repository
 
- + [https://classroom.github.com/a/X0YnIQnZ](https://classroom.github.com/a/X0YnIQnZ)
+* TBA
 
 
 ### Bring your own computer to class
@@ -212,33 +212,9 @@ Below is a tentative schedule of covered topics and associated activities. The s
 
 Week # | Dates   | Topic | Reading|
 ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------|
-1 | Aug. 29-Sep.2   | Introduction to the course | Read the syllabus|
-1 | | No lab| N/A|
-2 | 5 Sept - 9 Sept   | Making Connections | Chap 1 and 2 in Stavely|
-2 | 6 Sept            | Lab: [01_File_search](https://classroom.github.com/a/knJ_iLPp)| Hand out|
-3 | 12 Sept - 16 Sept | Programming Constructs, [Activity: Survey01](https://classroom.github.com/a/Pwmul9wH)   | Chap 3 in Stavely, Chap 1 and Appendix B in Saha |
-3 | 13 Sept           | Lab: [02_Root_finder](https://classroom.github.com/a/xBEQCY-X)| Hand out|
-4 | 19 Sept - 23 Sept | Python Functions, [Activity: Survey02 ComputeTheAvg](https://classroom.github.com/a/UgrofwAd)|  Chap 4 in Stavely, Chap 3 in Saha  |
-4 | 20 Sept           | Lab: [03_Iterative Exponentiation](https://classroom.github.com/a/kePU_vue) | Hand out|
-5 | 26 Sept - 30 Sept |  Building and Using Virtual Environments | slides       |
-5 | 27 Sept           | Lab: [04_Working in Virtual Environments](https://classroom.github.com/a/FOV2gbu9)| Hand out|
-6 | 3 Oct - 7 Oct     | Data Containers: Sets, Tutples, Lists and Dictionaries, [Activity: Survey03_csvReader](https://classroom.github.com/a/p7dgwPFm) | Chap 5; Stavely, Chap 2; Saha|
-6 | 4 Oct            | Lab: [05_data-summarization](https://classroom.github.com/a/FgyWJxtk) | Hand out|
-7 | 10 Oct - 12 Oct   | Fall Break; No Class |       |
-7 | | No lab| N/A|
-7 | 14 Oct   | [Activity: Survey04_tuppleSwapping](https://classroom.github.com/a/VD5xQOOH)  |       |
-8 | 17 Oct - 21 Oct |  Monoids [Activity: Survey 05](https://classroom.github.com/a/sH6bWOAK)  |  Chap 6; Stavely, Chap 3; Saha      |
-8 | 18 Oct           | Lab: [06_data-analysis-starter](https://classroom.github.com/a/FNC2X_G6)| Hand out|
-9 | 24 Oct - 28 Oct |  Test week: Details given in class slides. [Activity: Survey 06](https://classroom.github.com/a/_XVhojpu), [Video activity](https://forms.gle/Qgqwa1Tx7cnYDxFe8) |        |
-9 | 25 Oct            | Lab: see last lab assignment | Hand out|
-10 | 31 Oct - 4 Nov   | Generator functions [Activity: survey 07 MorseCD](https://classroom.github.com/a/mQFPw5Jw)|        |
-10 | 1 Nov           | Lab: [07_ethics](https://classroom.github.com/a/zMf4XqiI)| Hand out|
-11 | 7 Nov - 11 Nov  |  Sets [Activity: Survey 8](https://classroom.github.com/a/KqpXK-bI) |        |
-11 | 8 Nov           | Lab: None| Hand out|
-12 | 14 Nov - 17 Nov | Putting it together: sets and lists                    |        |
-12 | 15 Nov          | Lab: [08_list_unification](https://classroom.github.com/a/75pQsRRj), [Final Project](https://classroom.github.com/a/BPhcvHk5)| Hand out|
-13 | 21 Nov - 25 Nov |   Thanksgiving                  |        |
-13 | 22 Nov          |  | |
-14 | 28 Nov - 2 Dec |   [Class Activity (Survey 09)](https://forms.gle/J5gho8uLoM4EUARn7) Groups Discussing Research [Activity (Survey 10)](https://classroom.github.com/a/Un74gqNK) Mode Calculation                 |        |
-14 | 29 Nov          | Lab: | Hand out|
-14 | 31 Nov |   Discussion of Presentations                  |        |
+1 | Jan 17- 20 | Introduction to the course | Read the syllabus|
+1 | | No lab| N/A |
+2 |  |  | |
+2 || | |
+3 |  |  | |
+3 || | |
