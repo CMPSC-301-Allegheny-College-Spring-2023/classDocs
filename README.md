@@ -128,13 +128,11 @@ The grade that a student receives in this class will be based on the following c
 
 |Category              | Percentage | Assessment metric
 |:-------------------- | :--------- | :-----------------
-|Class Participation        | 5%    | check mark grade
-|Midterm Exam               | 10%   | letter grade
-|Final Project              | 15%   | letter grade
-|Source Code surveys        | 15%   | check mark grade
-|Programming Projects       | 15%   | check mark grade
-|Engineering Efforts        | 40%   | letter grade
-|Total                      | 100%       |
+|Class Participation   | 10%        | check mark grade
+|Exam                  | 20%        | letter grade
+|Lab Assignments       | 40%        | letter grade
+|Final Project         | 30%        | letter grade
+|Total                 | 100%       |
 
 #### Grading Scale
 
@@ -147,45 +145,34 @@ The grade that a student receives in this class will be based on the following c
 
 ### Definitions of Grading Categories
 
+ + __Class Participation__: All students are required to actively participate during all of the class sessions. Your participation will take forms such as answering questions about the required reading assignments, completing in-class exercises, asking constructive questions of the other members of the class, giving presentations, leading a discussion session in class.
+
+ + __Exam__: A midterm exam will cover all of the material in their associated module(s) up to the time of the exam. The finalized date for each of the exams will be announced at least one week in advance of the scheduled date. Unless prior arrangements are made with the course instructor, in absence of special arrangements, all students will be expected to take the exam at the scheduled date and complete it during the allotted time.
+
  + __Class Participation__: All students are required to actively participate during all of the class sessions. Your participation will take forms such as answering questions about the required reading assignments, completing in-class exercises, asking constructive questions of the other members of the class, giving presentations, leading a discussion session in class.% and in the course's Slack channels.
 
- + __Exams__: The exams will cover all of the material in their associated module(s). The finalized date for each of the exams will be announced at least one week in advance of the scheduled date. Unless prior arrangements are made with the course instructor, all students will be expected to take these exams on the scheduled date and complete the exams in the stated period of time.
+ + __Laboratory Assignments__: These assignments invite students to explore the concepts, tools, and techniques associated with the field of bioinformatics.  All of the laboratory assignments require the use of the provided tools to study,  design, implement, and evaluate informatics systems that solve biology problems.  To ensure that students are ready to utilize and develop appropriate software in both other classes at Allegheny College and after graduation, the instructor will assign individuals to teams for some of the laboratory assignments.  Unless specified otherwise, each laboratory assignment will be due at the beginning of the next laboratory session.  Some of the  assignments in this course will expect students to give both a short presentation and a demonstration of the bioinformatics solution that they created.
 
- + __Final Project__: This project will present you with an opportunity to design and implement a correct and carefully evaluated programming solution for a specific problem. Completion of the final project will require you to apply the knowledge, programming and technical skills that you have acquired during the course. The details for the final project will be given approximately a month before the project due date (during finals week).
-
- + __Source Code Surveys__: Graded on a checkmark basis and building on material in the textbook and the content covered during that day's in-person classroom session, technical challenges have the following goals: (i) help a learner to demonstrate that they can remember learned material by recalling facts, basic concepts, and answers to questions presented in the textbook and (ii) allow a learner to demonstrate an understanding of facts and ideas by translating, interpreting, and stating the main technical ideas presented in the textbook.
-
- + __Programming Projects__: Graded on a checkmark basis and building on material in the textbook, the content covered during that week's in-person classroom session, and the weekly technical challenges, the programming projects further equip a learner to solve new problems in the field of discrete structures by applying — in a new way — their knowledge of the facts, techniques, and rules of discrete mathematics and rigorous Python programming.
-
- + __Engineering Efforts__: These assignments invite students to explore different techniques for rigorously designing, implementing, evaluating, and documenting real-world Python programs. These assignments will invite students to use tools like a text editor, a terminal window, and a modern Python development environment to implement functions that strike the right balance between understandability, generalizability, and specialization. Students will also use the data collected from running experiments to evaluate the implementation of a Python function as they consider, for instance, its efficiency and correctness.
+ + __Final Project__: This project will present you with an opportunity to design and implement a correct and carefully evaluated project. Completion of the final project will require you to apply all of the knowledge and skills that you have acquired during the course of the semester to address a research problem. The details for the final project will be given in class.
 
 ### Assignment Submission
 
 Your class instructor will be using GitHub Classroom to collect all assignments. It is expected that you are able to effectively use `git` to submit your work. If you require help, please see your peers, the Technology Leaders, or your instructor.
 
-All assignments will have a stated due date. The electronic version of the class assignments are to be turned in at the beginning of the lab session on that due date. Submissions after the beginning of class are counted as being late. Assignments will be accepted for up to one week past the assigned due date with a 15% penalty. All late assignments must be submitted at the beginning of the session that is scheduled one week after the due date. The honor code (see below) is assumed for all submitted work.
+All assignments will have a stated due date. The electronic version of the class assignments are to be turned in at the beginning of the lab session on that due date. Submissions after the beginning of class are counted as being late. Assignments will be accepted for up to one week past the assigned due date with a 15% penalty. **After that time, the lab will not be accepted.**
+
 
 ### Extensions
 
-Unless special arrangements are made with the course instructor, no assignments will be accepted after the late deadline. If you are requesting extensions for a lab assignment, then you are to email me with your request and also provide a valid reason for your extension. This request must come before the due date of the lab and __not__ on the due date.
+Unless special arrangements are made with the course instructor, **no assignments will be accepted after the late deadline.** If you are requesting extensions for a lab assignment, then you are to email me with your request and also provide a valid reason for your extension. This request must come before the due date of the lab and __not__ on the due date.
 
-Requests will not be granted where the reason appears to be insignificant. Extensions are 24 hours of extra time (after the original due date) and are given out at my discretion. The decision to provide you with an extension (or not) will be weighed in light of fairness  to your peers who are still able to complete their labs, regardless of their own busy schedules.
-
-
-### Attendance
-
-It is mandatory for all students to attend the class and laboratory sessions. If you will  not be able to attend a session, then please see/email the course instructor at least one week in advance to describe your situation. Students who miss more than five 4unexcused classes, laboratory sessions, or group project meetings will have their final  grade in the course reduced by one letter grade. Students who miss more than ten of the aforementioned events will automatically fail the course.
-
-### Extensions
-
-Unless special arrangements are made with the course instructor, no assignments will be accepted after the late deadline. If you are requesting extensions for a lab assignment, then you are to email me with your request and also provide a __valid reason__ for your extension. This request must come before the due date of the lab and not on the due date. Requests will not be granted where the reason appears to be insignificant. Extensions are 24 hours of extra time (after the original due date) and are given out at my discretion. The decision to provide you with an extension (or not) will be weighed in light of fairness to your peers who are still able to complete their labs, regardless of their own busy schedules.
+Requests will not be granted where the reason appears to be insignificant. Extensions are 24 hours of extra time (after the original due date) and are given out at my discretion. The decision to provide you with an extension (or not) will be weighed in light of fairness to your peers who are still able to complete their labs, regardless of their own busy schedules.
 
 The submission of homework comprises the Honor Code pledge of the student(s) completing the work. For any assignment completed in a group, students must also turn in a one-page reflection that describes each group member's contribution to the submitted deliverables.  
 
 ### A note on extenuating circumstances
 
 If you should find yourself in difficult circumstances that significantly interfere with your ability to prepare for this class and to complete assignments, please inform me immediately so that we can work something out together! Do not wait until the last day of class to ask for exceptions to what is stated in this syllabus. In such a situation, you may also find it helpful to contact one of the available resources on campus:
-
 
  +  [Maytum Center for Student Success](https://sites.allegheny.edu/learningcommons/)
  +  [Allegheny College Counseling Center](https://sites.allegheny.edu/learningcommons/)
