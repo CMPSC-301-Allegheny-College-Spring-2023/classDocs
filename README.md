@@ -172,7 +172,7 @@ Additionally, the course website will be used to store the syllabus, course sche
 
 ### Gradebook Repository
 
-* TBA
+* [GradeBook repository](https://classroom.github.com/a/9QhtvWWZ)
 
 ### Bring your own computer to class
 
