@@ -17,6 +17,7 @@ This repository contains information about Data Analysis, including the course o
 - [Course Policies](#Course-Policies)
 - [Grading](#grading)
 - [Assignment Submissions](#Assignment-Submissions)
+- [Gradebook Repository](#Gradebook-Repository)
 - [Schedule](#Schedule)
 
 ## Instructor
