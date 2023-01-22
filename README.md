@@ -212,9 +212,11 @@ Below is a schedule of covered topics as we cover them, along with their associa
 
 Week # | Dates   | Topic | Reading|
 ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------|
-1 | Jan 17- 20 | Introduction to the course, the data all around | Read the syllabus|
+1 | 17 - 20 Jan 2023 | Introduction to the course, the data all around | Read the syllabus|
 1 | | No lab| N/A |
-2 |  |  | |
-2 || | |
+2 | 23 - 27 Jan | Web traffic analytics. Google Analytics, Building own site to play with Google Analytics | Slides |
+2 || Lab assignment 01| Hand out|
 3 |  |  | |
 3 || | |
+4 |  |  | |
+4 || | |
