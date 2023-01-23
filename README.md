@@ -215,7 +215,7 @@ Week # | Dates   | Topic | Reading|
 1 | 17 - 20 Jan 2023 | Introduction to the course, the data all around | Read the syllabus|
 1 | | No lab| N/A |
 2 | 23 - 27 Jan | Web traffic analytics. Google Analytics, Building own site to play with Google Analytics | Slides |
-2 || Lab assignment 01| Hand out|
+2 || [Lab assignment 01](https://classroom.github.com/a/VAkKXIdW)| Hand out|
 3 |  |  | |
 3 || | |
 4 |  |  | |
