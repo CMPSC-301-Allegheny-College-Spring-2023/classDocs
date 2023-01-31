@@ -39,7 +39,7 @@ ggplot(data = sunData) +  geom_point(mapping = aes(x = fracOfYear, y = sunspotNu
 ggplot(data = sunData) +  geom_point(mapping = aes(x = fracOfYear, y = sunspotNum, color = fracOfYear)) + geom_smooth(mapping = aes(x = fracOfYear, y = sunspotNum))
 
 # Color by month
-ggplot(data = sunData) +  geom_point(mapping = aes(x = fracOfYear, y = sunspotNum, color = month)) + geom_smooth(mapping = aes(x = fracOfYear, y = sunspotNum, color = fracOfYear))
+ggplot(data = sunData) +  geom_point(mapping = aes(x = fracOfYear, y = sunspotNum, color = month)) + geom_smooth(mapping = aes(x = fracOfYear, y = sunspotNum))
 
 ####
 # Save the file
@@ -51,20 +51,20 @@ ggplot(data = sunData) +  geom_point(mapping = aes(x = fracOfYear, y = sunspotNu
 # ggsave("~/Desktop/pngSave_sunSpots_yearVersusSunspots_1.png")
 
 
-ggplot(data = sunData) +  geom_point(mapping = aes(x = fracOfYear, y = sunspotNum, color = month)) + geom_smooth(mapping = aes(x = fracOfYear, y = sunspotNum, color = fracOfYear))
+ggplot(data = sunData) +  geom_point(mapping = aes(x = fracOfYear, y = sunspotNum, color = month)) + geom_smooth(mapping = aes(x = fracOfYear, y = sunspotNum))
 
 # Save to your current working directory
 # ggsave("ggsave_sunSpots_yearVersusSunspots_1.png")
 
 
-ggplot(data = sunData) +  geom_point(mapping = aes(x = fracOfYear, y = sunspotNum, color = fracOfYear)) + geom_smooth(mapping = aes(x = fracOfYear, y = sunspotNum, color = fracOfYear))
+ggplot(data = sunData) +  geom_point(mapping = aes(x = fracOfYear, y = sunspotNum, color = fracOfYear)) + geom_smooth(mapping = aes(x = fracOfYear, y = sunspotNum))
 
 # Save to your current working directory
 # ggsave("ggsave_sunSpots_yearVersusSunspots_2.png")
 
 
-ggplot(data = sunData) +  geom_point(mapping = aes(x = fracOfYear, y = sunData$numObs, color = fracOfYear)) + geom_smooth(mapping = aes(x = fracOfYear, y = sunData$numObs, color = fracOfYear))
+ggplot(data = sunData) +  geom_point(mapping = aes(x = fracOfYear, y = numObs, color = fracOfYear)) + geom_smooth(mapping = aes(x = fracOfYear, y = numObs))
 
 
-ggplot(data = sunData) +  geom_point(mapping = aes(x = fracOfYear, y = numObs, color = fracOfYear)) + geom_smooth(mapping = aes(x = fracOfYear, y = sunspotNum, color = fracOfYear))
+ggplot(data = sunData) +  geom_point(mapping = aes(x = fracOfYear, y = numObs, color = fracOfYear)) + geom_smooth(mapping = aes(x = fracOfYear, y = sunspotNum))
 
