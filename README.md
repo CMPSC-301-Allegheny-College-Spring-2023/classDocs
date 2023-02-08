@@ -218,5 +218,5 @@ Week # | Dates   | Topic | Reading|
 2 || [Lab assignment 01](https://classroom.github.com/a/VAkKXIdW) Note: you will have to refresh your GitHub page after clicking on this link. [Activity01](https://forms.gle/NZFZTTAp5cd843zA7) | Hand out|
 3 | 30 Jan - 3 Feb | Introduction to R programming, exploratory steps | slides |
 3 || Website Analytics [Lab assignment 02](https://classroom.github.com/a/fxjStIf6)| |
-4 |  |  | |
-4 || | |
+4 | 6 - 10 Feb | First steps in analysis | |
+4 || No new lab, Speaker: Ron Mattocks | |
