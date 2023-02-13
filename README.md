@@ -220,8 +220,8 @@ Week # | Dates   | Topic | Reading|
 3 || Website Analytics [Lab assignment 02](https://classroom.github.com/a/fxjStIf6)| |
 4 | 6 - 10 Feb | First steps in analysis | |
 4 || No new lab, Speaker: Ron Mattocks [Activity03](https://classroom.github.com/a/jZ3LzZuZ)| |
-5 |   |  | |
-5 || | |
+5 |  13 - 17 Feb | First steps in analysis. ascertaining whether a trend is _really_ there.  | |
+5 || Lab03| |
 6 |   |  | |
 6 || | |
 7 |   |  | |
