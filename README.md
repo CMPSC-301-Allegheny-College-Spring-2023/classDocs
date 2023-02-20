@@ -222,8 +222,8 @@ Week # | Dates   | Topic | Reading|
 4 || No new lab, Speaker: Ron Mattocks speaker [Activity02](https://forms.gle/aD1F3SyVMTF7RcQX9), Running code with [Activity03](https://classroom.github.com/a/jZ3LzZuZ)| |
 5 |  13 - 17 Feb | First steps in analysis. Ascertaining whether a trend is _really_ there. Plotting tricks and Bin Sizes.  | |
 5 || [Lab assignment 03](https://classroom.github.com/a/UpOshHsu)| |
-6 |   |  | |
-6 || | |
+6 |  20 - 24 Feb | Basic stats and introduction to models | |
+6 || [Lab assignment 04](https://classroom.github.com/a/YBWxOqeR) | |
 7 |   |  | |
 7 || | |
 8 |   |  | |
