@@ -224,7 +224,7 @@ Week # | Dates   | Topic | Reading|
 5 || [Lab assignment 03](https://classroom.github.com/a/UpOshHsu)| |
 6 |  20 - 24 Feb | Basic stats and introduction to models | |
 6 || [Lab assignment 04](https://classroom.github.com/a/YBWxOqeR) | |
-7 |   |  | |
+7 |  27 Feb - 3 March  | Practical work with t-tests. [Activity04-GroupWork; Pick a team before clicking on this link!!](https://classroom.github.com/a/TpXxiKr5) | |
 7 || | |
 8 |   |  | |
 8 || | |
