@@ -29,8 +29,8 @@ p <- ggplot(spinrates, aes(x=velocity, y=spinrate)) +
   labs(title = "Likelihood of swinging and missing on a fastball",
        y = "spin rate (rpm)") +
   theme_light()
-ggplotly(p) # draw the plot in memory
-p # show the plot (another way to show the plot)
+ggplotly(p) # draw/show the interactive plot
+p # show the plot; non-interactive
 
 # _______________________________________
 
@@ -42,8 +42,8 @@ p <- ggplot(spinrates, aes(x=velocity, y=spinrate)) +
   theme_light() +
   labs(title = "Likelihood of swinging and missing on a fastball",
        y = "spin rate (rpm)")
-ggplotly(p) # draw/show the plot in memory
-p # show the plot (another way to show the plot)
+ggplotly(p) # draw/show the interactive plot
+p # show the plot; non-interactive
 
 # _______________________________________
 
