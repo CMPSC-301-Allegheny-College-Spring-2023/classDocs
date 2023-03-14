@@ -226,5 +226,5 @@ Week # | Dates   | Topic | Reading|
 6 || [Lab assignment 04](https://classroom.github.com/a/YBWxOqeR) | |
 7 |  27 Feb - 3 March  | Practical work with t-tests. [Activity04-GroupWork; Pick a team before clicking on this link!!](https://classroom.github.com/a/TpXxiKr5) | |
 8 |  spring break |  | |
-9 || Midterm  |  |
+9 || [Midterm](https://classroom.github.com/a/ai-SahUA)  |  |
 9 || No lab | |
