@@ -228,7 +228,7 @@ Week # | Dates   | Topic | Reading|
 8 |  spring break |  | |
 9 | 13 - 17 March | Talking about ANOVA test. [Midterm](https://classroom.github.com/a/ai-SahUA)  |  |
 9 || No lab | |
-10 ||   |  |
+10 | 20 - 24 March | Using models, applying regression analysis |  |
 10 || [Lab assignment 05](https://classroom.github.com/a/951xTgKS) | |
 11 ||   |  |
 11 ||  | |
