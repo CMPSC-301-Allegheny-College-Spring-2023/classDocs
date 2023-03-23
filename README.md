@@ -226,7 +226,7 @@ Week # | Dates   | Topic | Reading|
 6 || [Lab assignment 04](https://classroom.github.com/a/YBWxOqeR) | |
 7 |  27 Feb - 3 March  | Practical work with t-tests. [Activity04-GroupWork; Pick a team before clicking on this link!!](https://classroom.github.com/a/TpXxiKr5) | |
 8 |  spring break |  | |
-9 | 13 - 17 March | Talking about ANOVA test. [Midterm](https://classroom.github.com/a/ai-SahUA), [activity05-anova](https://classroom.github.com/a/XasMhHU_)  |  |
+9 | 13 - 17 March | Talking about ANOVA test. [Midterm](https://classroom.github.com/a/ai-SahUA), [Activity05-Anova](https://classroom.github.com/a/XasMhHU_)  |  |
 9 || No lab | |
 10 | 20 - 24 March | Using models, applying regression analysis |  |
 10 || [Lab assignment 05](https://classroom.github.com/a/951xTgKS) | |
