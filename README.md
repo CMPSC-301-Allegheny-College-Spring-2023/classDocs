@@ -230,7 +230,7 @@ Week # | Dates   | Topic | Reading|
 9 || No lab | |
 10 | 20 - 24 March | Using models, applying regression analysis |  |
 10 || [Lab assignment 05](https://classroom.github.com/a/951xTgKS) | |
-11 | 27 - 31 March| Regression Model building, Talking about the test, Multivariate Models  |  |
+11 | 27 - 31 March| Regression Model building, Talking about the test, Multivariate Models. [Activity06_linearModels](https://classroom.github.com/a/XK0TSfqG)  |  |
 11 ||  | |
 12 ||   |  |
 12 ||  | |
