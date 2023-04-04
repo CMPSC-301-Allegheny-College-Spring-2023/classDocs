@@ -1,9 +1,7 @@
 # Assumptions of multivariate regression
 
-
 # First, let's use a normal distribution generator to see what a normal distribution looks like when plotted.
 # See more examples at link: https://www.tutorialspoint.com/r/r_normal_distribution.htm
-
 
 rm(list = ls()) # clear out the variables from memory to make a clean execution of the code.
 
@@ -21,10 +19,10 @@ ynorm <- rnorm(500)
 # Plot a histogram of ynorm
 hist(ynorm, main = "Normal Distribution")
 
-# gimme one randomly picked number. We will use this code below to add randomness to our dataset.
+#  Similar to a randomly generated value. This value is the distance from a random point to the expected line for our normal distribution. We will use this code below to add randomness to our dataset. 
 runif(1)
 
-# create a dataset to play with
+# create a dataset
 dat <- tibble(num = 1:length(ynorm), 
               vals1 = c(ynorm),
               vals2 = c(vals1 *runif(1)))
@@ -38,11 +36,20 @@ ggplot(data = dat,
   labs(y = "Normalized Magnitudes")
 
 
+# plot the random dataset values, now add linear model
+ggplot(data = dat,
+       mapping = aes(x = num, y = vals1 )) + 
+  geom_point() +
+  geom_smooth(method = lm) +
+  labs(x = "Nums") + 
+  labs(y = "Normalized Magnitudes")
+
 ### Residuals
-#The residual data of the simple linear regression model is the difference between the observed data of the dependent variable y and the fitted values ŷ.
+# The residual data of the simple linear regression model is the difference between the observed data of the dependent variable y and the fitted values ŷ.
 
 
 # create a dataset to play with (same dataset from above)
+# note, vals2 is almost the same as vals1 except we have a introduced a bit or randomness.
 dat <- tibble(num = 1:length(ynorm), 
               vals1 = c(ynorm),
               vals2 = c(vals1 *runif(1)))
@@ -90,6 +97,9 @@ summary(mod)
 
 
 # Overcoming Multicollinearity
+
+# Q: What is multicollinearity and why is it a problem?
+# A Multicollinearity exists whenever an independent variable is highly correlated with one or more of the other independent variables in a multiple regression equation. Multicollinearity is a problem because it undermines the statistical significance of an independent variable.
 
 # Create two samples of 500 numbers which are normally distributed.
 ynorm1 <- rnorm(500)
