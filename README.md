@@ -234,7 +234,9 @@ Week # | Dates   | Topic | Reading|
 11 || No lab | |
 12 | 3 - 7 April| Multivariate Regression models. Gender Roles analysis with [Lab assignment 06 (GroupWork)](https://classroom.github.com/a/fCCdjLge), an extra exciting [Activity07_multivariateAnalysis](https://classroom.github.com/a/Xvt-LL5d) |  |
 12 ||  | |
-13 ||   |  |
-13 ||  | |
+13 | 10 - 14 April| Project presentations  |  |
+13 || Project presentations | |
 14 ||   |  |
 14 ||  | |
+15 ||   |  |
+15 ||  | |
