@@ -236,7 +236,7 @@ Week # | Dates   | Topic | Reading|
 12 ||  | |
 13 | 10 - 14 April| Presentations from Lab 06.  |  |
 13 ||  | |
-14 | 17 - 21 April| Text Analysis, [Final projects (GroupWork)](https://classroom.github.com/a/G2Jq_bL6)  |  |
-14 || Project presentations | |
+14 | 17 - 21 April| Text Analysis, [Final project assigment (GroupWork)](https://classroom.github.com/a/G2Jq_bL6), [Activity08-textAnalysis](https://classroom.github.com/a/tydWzukI)  |  |
+14 ||  | |
 15 ||   |  |
 15 ||  | |
